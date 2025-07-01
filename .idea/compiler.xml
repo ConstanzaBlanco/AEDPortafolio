@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EjerciciosUnidad5" />
+        <module name="EjerciciosUnidad6" />
+        <module name="EjerciciosUnidad7" />
+        <module name="ut8-ta3" />
+        <module name="EjerciciosUnidad1" />
+        <module name="EjerciciosUnidad3" />
+        <module name="EjerciciosUnidad4" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ut8-ta3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
