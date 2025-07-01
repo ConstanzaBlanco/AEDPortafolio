@@ -1,0 +1,21 @@
+BUSCAR UN ELEMENTO EN UNA LISTA
+Precondiciones
+La lista no debe estar vacia
+
+Postcondiciones
+Debe devolver el Nodo encontrado en base a la clave dada, si no se encuentra retorna null
+
+Lenguaje Natural:
+Recorrer cada nodo de la lista y comparar el dato de cada uno con la clave dada
+cuando el dato de un nodo coincide con la clave, retornar este nodo.
+Si no se encuentra ninguna coincidencia entonces retornar null
+
+Seudocodigo:
+Comienzo
+    Mientras nodo no este vacio
+        si nodo.dato=clave
+            devolver nodo
+        Finsi
+    FinMientras
+    devolver null
+Fin

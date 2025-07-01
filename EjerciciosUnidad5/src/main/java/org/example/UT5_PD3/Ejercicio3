@@ -1,0 +1,14 @@
+1.
+Sí, este problema se puede resolver con otras estructuras de datos que vimos antes como listas,
+colas o árboles. Por ejemplo, con una lista podrías guardar todas las palabras y las páginas,
+pero buscar una palbara en una lista es lento porque hay que recorrer toda la lista. La cola no
+sirve mucho para buscar porque funciona en orden, no para búsquedas directas. Un árbol binario
+ordena las palabras y la búsqueda es más rápida que en una lista, pero si el árbol se desbalancea
+puede ser lento. El trie que usamos es bueno porque busca rápido las palabras y también es muy bueno
+para buscar palabras que empicen con ciertas letras (prefijos). Pero consume más memoria y es un poco
+más difícil de programar.
+
+2.
+Si los archivos son pequeños, como solo unas pocas líneas, no vale la pena usar un trie porque consume
+más memoria y es más compilcado. En ese caso es mejor usar una lista ordenada o un árbol binario, que son
+más simples y rápidos para datos pequeños.

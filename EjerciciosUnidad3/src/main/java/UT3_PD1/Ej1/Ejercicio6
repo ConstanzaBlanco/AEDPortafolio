@@ -1,0 +1,8 @@
+a)En los arrays hay una memoria continua, ya que al crearlo se lo genera con los espacios ya especificados, puede ocurrir que se desperdicie espacio
+o que haya que redimensionar cada vez que llega a su limite. Mientras que una lista enlazada cada nodo ocupa más memoria pero es más dimámico al momento
+de agregar nuevos estudiantes al curso, ya que nunca se tendría que redimensionar.
+
+b)Teniendo en cuenta que no se sabe de a temano la cantidad exacta de estudiantes que estarámn en cada curso, lo más óptimo sería utilizar una lista enlazada,
+ya que si se utiliza un array cada vez que llegue al tope, este se tendrá que redimensionar, o también en eso de redimensionar terminaría teniendo espacios vacios
+lo cual no es nada eficiente. La mejor solución es una lista enlazada.
+

@@ -1,0 +1,30 @@
+inicializar:
+cantidad- Cantidad de eleemtos actuales en la lista
+front- Indice del primer elemento
+rear- Indice de donde se va a insertar el proximo
+capacidad- tamaño maximo del array
+Array- inicializado segun la capacidad
+
+
+boolean PoneEnCola(unElemento)
+    Si (cantidad es igual a capacidad)
+        devolver false
+    Sino
+        Array[rear]=unElemento
+        rear=(rear+1)mod capacidad
+        cantidad++
+        devolver true
+    FinSi
+Fin
+
+
+Elemento QuitaDeCola()
+    Si (cantidad es igual a 0)
+        devolver null
+    Sino
+        elemento=Array[front]
+        front=(front+1) mod capacidad
+        cantidad--
+        devolver elemento
+    FinSi
+Fin

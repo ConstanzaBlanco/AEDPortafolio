@@ -1,0 +1,9 @@
+Object.hashCode(): Devuelve un valor basado en la dirección de memoria del objeto. No considera el contenido.
+
+Integer.hashCode(): Devuelve el valor entero que representa. Así, dos Integer con el mismo valor tienen el mismo hash.
+
+String.hashCode(): Calcula el hash usando el contenido de la cadena con una fórmula que combina los caracteres y multiplicando por 31.
+
+---¿Por qué son diferentes?
+Porque Integer y String son clases inmutables y deben tener un hashCode() consistente con su contenido para funcionar correctamente
+como claves en colecciones como HashMap o HashSet.

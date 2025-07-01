@@ -1,0 +1,19 @@
+IMPRIMIR TODOS LOS ELEMENTOS DE UNA LISTA
+Precondiciones:
+Que la lista no este vacia
+
+Postcondiciones:
+Retornar un String de los datos de cada nodo
+
+Lenguaje Natural:
+Creo un StringBuilder y recorro cada nodo de la losta guardando su dato
+en el StringBuilder. Al llegar al final retorno el stringBuilder
+
+Seudocodigo:
+Comienzo
+    Stringbuilder= new StringBuilder
+    Mientras nodo no este vacio
+        StringBuilder.agregar(nodo.dato)
+    Finmientras
+    devolver StringBuilder
+Fin

@@ -1,0 +1,9 @@
+Los resultados que se muestran se parecen bastante a lo que se vio en la teoria.
+A medida que el factor de carga va aumentando, tambien se ve que el promedio de
+comparaciones para insertar sube, lo cual es lo que se espera porque hay más coliciones.
+Por otro lado, las busquedas exitosas se mantienen casi constantes, lo que tiene sentido
+si se piensa que las claves fueron insertadas sin muchos problemas o sin que hallan
+demasiados duplicados. En cuanto a las busquedas no exitosas, los valores no cambian
+mucho tampoco, aunque podrian esperarse que sean un poco más altas cuando el factor de
+carga es grande, pero puede ser que el redimensionamiento esté haciendo que no se junten
+muchos elementos juntos y eso ayuda.

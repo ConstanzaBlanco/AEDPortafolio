@@ -1,0 +1,28 @@
+INSERTAR UN ELEMENTO EN UNA LISTA
+Precondiciones:
+El nodo esta correctamente crear al insertarse, es decir que su dato no es null
+La lista debe estar inicializada
+Se tiene acceso al ultimo nodo de la lista
+
+Postcondiiones:
+Devuelve la lista con al menos 1 elemento en ella
+Si estaba vacia el primer nodo el el nuevo
+La cantidad de nodos en la lista aumentó en 1
+
+Lenguaje Natural:
+Primero reviso si la lIsta esta vacia, si es asi entonces el primer nodo va a ser
+el nuevo Nodo. En caso contrario recorro todos los nodos de la losta hasta el ultimo,
+cuando llego al ultimo le indicio que su siguiente sera el nuevo Nodo
+
+
+Seudocodigo:
+Comienzo
+   si primero esta vacio
+        primero=nuevoNodo
+   sino
+        mientras nodo.siguiente no este vacio
+            nodo=nodo.siguiente
+        finMientras
+        nodo.siguiente=nuevoNodo
+   finSi
+Fin

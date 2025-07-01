@@ -1,0 +1,21 @@
+Lenguaje natural:
+Recorro cada elemento de lalista, me lo guardo y a partir del siguiente sigo recorriendo, cuando hay uno duplicado elimino ese elemento
+
+Seudocodigo:
+COMIENZO
+actual=primero
+mientras(actual no este vacio){
+    aux1=actual
+    aux2=actual.siguiente
+    mientras(aux2 no este vacio){
+        si (aux2.etiqueta==actual.etiqueta){
+            aux1.siguiente=aux2.siguiente
+            aux2=aux2.siguiente
+        }
+        sino{
+            aux1=aux1.siguiente
+            aux2=aux2.siguiente
+        }
+    }
+    actual=actual.siguiente
+}

@@ -1,0 +1,36 @@
+CREAR ELEMENTOS Y LA LISTA
+Precondiciones:
+El nodo es creado con un dato y un campo siguiente
+La lista tiene acceso a los datos de los nodos
+
+Postcondiciones:
+El nodo tiene un dato y esta enlazado a otro nodo a traves de siguiente o a null si es el ultimo
+La lista esta formada por unicamente nodos enlazados
+
+LenguajeNatural:
+Creo una clase que se llame Nodo e implemente INodo, con sus metodos correspondientes
+Creo una clase que se llame Lista e implento ILista, con sus metodos correspondientes, mantiene la referencia al primer nodo
+Creo un Nodo, le asigno un dato. Si quiero enlazar ese nodo a otro nodo le asigno al nodo1 como
+siguiente el nodo2.
+La lista se contruye encadenando nodos, comenzando desde el primero
+
+Seudocodigo:
+Definir Nodo
+    dato
+    null
+
+Definir Lista
+    primero=null
+
+Procedimiento crearNodo(valor)
+    nuevoNodo=nuevoNodo
+    nuevoNodo.dato=valor
+    nuevoNodo.siguiente=null
+    devolver nuevoNodo
+
+Procedimiento crearlista()
+    lista=nuela Lista
+    lista.primero=null
+    devolver Lista
+
+

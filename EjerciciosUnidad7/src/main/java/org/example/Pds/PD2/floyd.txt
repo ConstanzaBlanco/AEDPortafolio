@@ -1,0 +1,22 @@
+public Double[][] floyd() {
+        Double[][] C= UtilGrafos.obtenerMatrizCostos(vertices);
+        Double[][] A= new Double[C.length][C.length];
+        for (int i = 0; i < A.length; i++) {
+            for (int j = 0; j < A.length; j++) {
+                A[i][j] = C[i][j];
+            }
+        }
+        for (int i = 0; i < A.length; i++) {
+            A[i][i] = (double) 0;
+        }
+        for (int k = 0; k < A.length; k++) {
+            for (int i = 0; i < A.length; i++) {
+                for (int j = 0; j < A.length; j++) {
+                    if (A[i][k] + A[k][j] < A[i][j]) {
+                        A[i][j] = A[i][k] + A[k][j];
+                    }
+                }
+            }
+        }
+        return A;
+    }

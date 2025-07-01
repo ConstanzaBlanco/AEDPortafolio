@@ -1,0 +1,37 @@
+ELIMINAR UN ELEMENTO DE UNA LISTA DADA SU CLAVE
+Precondiciones:
+La lista debe estar inicializada
+
+PostCondiicones
+retorna true si se pudo eliminar y false si no
+La lista se modifica eliminando ese elemento si es que se encuentra dada su clave
+
+Lenguaje Natural
+Recorro cada elemento de la lista y comparo su dato con la clave dada, cuando haya
+una coincidencia, procedo a eliminar ese nodo y retornar true. Si no ocurre ninguna coincidencia la
+lista permanece como estaba y retorna false.
+
+Seudocodigo:
+Comienzo
+    actual=primero
+    anterior=null
+    result=false
+    Mientras actual no sea null
+        si actual.dato=clave
+            si anterior=null
+                primero=actual.siguiente
+                anterior=actual
+                actual=actual.siguiente
+
+            sino
+                anterior=actual
+                actual=actual.siguiente
+
+            result=true
+        sino
+             anterior=actual
+             actual=actual.siguiente
+        FinSi
+    FinMientras
+    devolver resultado
+Fin

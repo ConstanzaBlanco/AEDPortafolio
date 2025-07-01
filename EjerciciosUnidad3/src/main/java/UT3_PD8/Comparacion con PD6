@@ -1,0 +1,23 @@
+COMPARACION CON PD6
+En el PD6, se implementaron listas enlazadas en el directorioSucursales. Esta solución
+llevó bastante trabajo al momento de realizar las operaciones de eliminar, agregar o buscar, por ejemplo
+al momento de insertar o eliminar un elemento tenia que manualmente desplazar los elementos para que se pudieran
+realizar estas operaciones, para contar elementos tenia que iterar 1 por 1 hasta el ultimo elemento, tambien
+verificar si estaba vacia a traves del primer elemento.
+En el PD8 al utilizar ArrayList, simplificó mucho más el desarrllo de estos metodos, ya que
+la clase ArrayList ya tiene estos métodos incorporados.
+Como conclusión final me gustaría decir que el uso de ArrayList para estas cosas es mucho más eficiente, ya que
+es mucho menos trabajo manual.
+
+¿COMO SE COMPARAN LOS CONSUMOS DE MEMORIA?
+En una ArrayList se guarda solo la referencia al objeto, lo cual ocupa 4 bytes
+Mientras que en una lista enlazada se guarda: la referencia al objeto, el previo, y el siguiente, lo cual ocupa 12 bytes
+
+ORDENES DE TIEMPO DE EJECUCION DE LAS FUNCIONALIDADES
+insertar: En lista enlazada O(n) porque hay que encontrar el ultimo elemento para enlazarlo al nuevo
+en ArrayList O(1)
+Buscar: En ambas O(n) porque ambas recorren la lista hasta el elemtno a encontrar
+Eliminar:En ambas O(n) porque ambas recorren la lista hasta el elemetno a encontrar y eliminarlo
+Listar: En ambas O(n)
+Cantidad: En listas enlazadas O(n) y en ArrayList O(1)
+EstaVacio: En ambas O(1)

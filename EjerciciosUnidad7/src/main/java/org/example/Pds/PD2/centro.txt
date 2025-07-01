@@ -1,0 +1,54 @@
+ public Comparable obtenerExcentricidad(Comparable etiquetaVertice) {
+        if (existeVertice(etiquetaVertice)) {
+            int indice = -1;
+            TVertice[] verticesList = getVertices().values().toArray(new TVertice[0]);
+            for (int i = 0; i < vertices.size(); i++) {
+                if (verticesList[i].getEtiqueta().compareTo(etiquetaVertice) == 0) {
+                    indice = i;
+                    break;
+                }
+            }
+            Double maxDistancia = 0.0;
+            if (indice >= 0) {
+                Map<Comparable, TVertice> mapaCompatible = new HashMap<>();
+                for (T key : vertices.keySet()) {
+                    mapaCompatible.put((String) key, vertices.get(key));
+                }
+                //Creo la matriz con los vaores iniciales
+                Double[][] C = UtilGrafos.obtenerMatrizCostos(mapaCompatible);
+
+                //Creo una matriz vacia para poner los valores de floyd
+                Double[][] A = new Double[C.length][C.length];
+                Double[][] matrizFloyd = floyd();
+
+                //Asumo que todas las distancias son positivas
+                for (int j = 0; j < C.length; j++) {
+                    if (matrizFloyd[j][indice] > maxDistancia && indice != j) {
+                        maxDistancia = matrizFloyd[j][indice];
+                    }
+                }
+            }
+            if(maxDistancia==Double.MAX_VALUE){
+                return -1;
+            }
+            return maxDistancia;
+        }
+        return null;
+    }
+
+
+
+
+public Comparable centroDelGrafo() {
+        Map<Comparable, Comparable> excentricidades = new HashMap<>();
+        for (IVertice vertice : vertices.values()) {
+            excentricidades.put(obtenerExcentricidad((vertice.getEtiqueta())), vertice.getEtiqueta());
+        }
+        Comparable min = Double.MAX_VALUE;
+        for (Comparable valor : excentricidades.keySet()) {
+            if (valor.compareTo(min) < 0) {
+                min = valor;
+            }
+        }
+        return excentricidades.get(min);
+    }
