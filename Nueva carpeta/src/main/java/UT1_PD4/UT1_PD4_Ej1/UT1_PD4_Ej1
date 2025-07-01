@@ -1,0 +1,12 @@
+Ejercicio 1
+
+a) La variable de clase es x porque es estatica
+b) La variable de instancia es y, ya que no es static
+
+Salida del codigo:
+a.y= 5
+b.y= 6
+a.x= 2 //Es estatica
+b.x= 2
+IdentifyMyparts.x= 2
+

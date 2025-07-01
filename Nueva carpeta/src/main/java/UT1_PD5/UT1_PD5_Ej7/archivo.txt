@@ -1,0 +1,26 @@
+//STRINGBUILDER
+CONSTRUCTORES
+    StringBuilder sb1 = new StringBuilder(); // Constructor vacío
+    StringBuilder sb2 = new StringBuilder(String); // Constructor con String
+    StringBuilder sb3 = new StringBuilder(int); // Constructor con capacidad inicial
+
+SETLENGTH
+    sb.setLenght(INT);//Cambia la longitud del StringBuilder
+
+ENSURECAPACITY
+    sb.ensureCapacity(int)// Asegura una capacidad mínima
+
+APPEND
+    sb.append(String)//Agrega texto al final
+
+INSERT
+    sb.insert(int,String)//Inserta un string en una posicion especifica
+
+DELETE
+    sb.delete(int inicio, int final)//Eleimina caracteres entre dos indices
+
+DELETECHARAT
+    sb.deleteCharAt(int)//Elimina un solo caracter segun su indice
+
+REVERSE
+    sb.reverse()//Invierte el StringBuilder

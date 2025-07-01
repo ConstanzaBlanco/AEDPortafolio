@@ -1,0 +1,24 @@
+String[] students = new String[10];
+//Se crea en array de tamanio 10, 1 referencia la array
+String studentName = "Peter Parker";
+//Se crea el String "Peter Parker", y studentName lo referncia.
+students[0] = studentName;
+//Guardo la referencia de studentName en la posicion 0 del array (2 referencias por ahora)
+studentName = null;
+//Se elimina esta referencia al asignarle null. Total de referencias: 1.
+
+1)Ningún objeto es eliminado por el Garbage Collector.
+
+2) Los objetos se eliminan automaticamente cuando ya no tienen referencias activas,
+esto lo hace el Garbage Collector.
+
+3)
+public class Main{
+    public static void main(String[] argos){
+        NumberHolder num= new NumberHolder;
+        num.anInt= 1;
+        num.aFloat= 2.1;
+        System.out.print("Valor de anInt: "+num.anint);
+        System.out.print("Valor de aFloat: "num.aFloat);
+    }
+}

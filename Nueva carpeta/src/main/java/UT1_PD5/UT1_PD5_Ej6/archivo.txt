@@ -1,0 +1,44 @@
+substring- Extrae una parte de la cadena.
+substring(inicio): Retorna la subcadena desde el índice indicado hasta el final.
+substring(inicio, fin): Retorna la subcadena desde el índice inicio hasta el índice fin (exclusivo).
+
+
+split-Divide la cadena en un arreglo usando un separador.
+split(regex): Divide la cadena en todas las ocurrencias del patrón.
+split(regex, límite): Divide la cadena pero limita la cantidad de elementos en el arreglo.
+
+
+subSequence-Funciona igual que substring, pero devuelve un objeto de tipo CharSequence en lugar de un String.
+
+
+trim-Elimina los espacios en blanco al principio y al final de la cadena.
+
+
+toLowerCase-Convierte todos los caracteres de la cadena a minúsculas.
+
+
+toUpperCase-Convierte todos los caracteres de la cadena a mayúsculas.
+
+
+indexOf-Busca la primera aparición de un carácter o subcadena y retorna su índice.
+indexOf(char) o indexOf(String): Empieza desde el inicio.
+indexOf(char, desdeÍndice) o indexOf(String, desdeÍndice): Empieza a buscar desde el índice especificado.
+
+
+lastIndexOf-Similar a indexOf, pero busca desde el final de la cadena.
+lastIndexOf(char) o lastIndexOf(String): Retorna el índice de la última aparición.
+lastIndexOf(char, desdeÍndice) o lastIndexOf(String, desdeÍndice): Busca hacia atrás desde el índice indicado.
+
+
+contains-Verifica si la cadena contiene en elemento especifico (retorna true o false).
+
+
+replace-Sustituye todas las ocurrencias de un carácter o secuencia por otro.
+replace(char viejo, char nuevo): Reemplaza todos los caracteres que coinciden.
+replace(CharSequence objetivo, CharSequence reemplazo): Reemplaza todas las apariciones de la secuencia.
+
+
+replaceAll-Reemplaza todas las ocurrencias que coinciden con una expresión regular por una cadena dada.
+
+
+replaceFirst-Reemplaza únicamente la primera ocurrencia que coincida con una expresión regular por una cadena dada.
