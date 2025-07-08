@@ -1,0 +1,24 @@
+1) Orden del tiempo de ejecución
+   Tiempo:
+
+   O(1), porque compara solo dos elementos.
+
+   En el Quicksort:
+
+   No agrega costo significativo, pero es una estrategia muy simple.
+
+2) Conveniencia comparativa
+   Es útil si se asume que las primeras posiciones son representativas, pero en general esto no es así.
+
+   Puede ser pésimo si el array está ordenado o inversamente ordenado, ya que casi siempre partirá con un pivote muy extremo.
+
+   Es más un ejemplo académico o para comparar, no muy práctico en general.
+
+3) Seudocódigo:
+Funcion encuentraPivote2Prim(izq, der, entrada)
+    Si entrada[0] > entrada[1] Entonces
+        Retornar 0
+    Sino
+        Retornar 1
+    FinSi
+FinFuncion

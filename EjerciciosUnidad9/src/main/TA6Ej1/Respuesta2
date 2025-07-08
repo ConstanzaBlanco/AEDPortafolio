@@ -1,0 +1,25 @@
+2)
+2. ¿Cuál es el orden de estas operaciones cuando el árbol APO se representa en la forma estándar (árbol binario con nodos)?
+Análisis a alto nivel:
+
+Tanto insertar como suprimeMinimo dependen de la altura del árbol APO, que al ser un árbol binario completo es:
+
+O(logn)
+Pero en un árbol binario enlazado, para ubicar el último nodo (o el lugar donde insertar) o para traer el último nodo para la raíz al suprimir, no hay acceso directo:
+hay que recorrer el árbol, lo cual puede costar O(n).
+
+Por lo tanto:
+
+Insertar:
+
+Encontrar la posición libre → O(n)
+
+Flotar → O(log n)
+
+Suprimir mínimo:
+
+Mover último nodo a raíz → O(n)
+
+Hundir → O(log n)
+
+En total, dominado por el O(n) por no poder acceder directamente a la posición del último nodo.

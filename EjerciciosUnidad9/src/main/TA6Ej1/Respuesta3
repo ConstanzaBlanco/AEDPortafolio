@@ -1,0 +1,25 @@
+3)
+3. ¿Cuál es el orden de estas operaciones cuando el árbol APO se representa mediante un vector con posiciones de 1 a N?
+Análisis a alto nivel:
+
+Cuando el APO se representa como vector, se aprovecha:
+
+El último elemento siempre está en la última posición del vector → acceso directo en O(1).
+
+Los hijos y el padre se calculan con fórmulas simples en O(1):
+
+hijo izquierdo(i) = 2 * i
+
+hijo derecho(i) = 2 * i + 1
+
+padre(i) = i // 2
+
+Por lo tanto:
+
+Insertar: colocarlo al final → O(1)
+luego flotar → O(log n)
+
+Suprimir mínimo: traer el último elemento a la raíz → O(1)
+luego hundir → O(log n)
+
+Así el costo total es O(log n), que es mucho más eficiente que en la representación de árbol enlazado.

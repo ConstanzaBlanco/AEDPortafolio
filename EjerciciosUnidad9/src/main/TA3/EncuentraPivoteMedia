@@ -1,0 +1,43 @@
+1) Orden del tiempo de ejecución
+   Tiempo:
+
+   O(1), ya que solo compara tres valores.
+
+   En el Quicksort:
+
+   Mejora la calidad promedio del pivote, reduciendo la probabilidad de
+   particiones muy desbalanceadas, ayudando a mantener O(n log n) en más casos.
+
+2) Conveniencia comparativa
+   Es una estrategia clásica para hacer el Quicksort más robusto, porque elige
+   como pivote el elemento que sería la mediana entre el primero, el del medio y
+   el último.
+
+   Esto reduce el riesgo de que el array ya ordenado degrade el rendimiento.
+
+   Muy recomendable en práctica general.
+
+3) Seudocódigo:
+Funcion encuentraPivoteMedia(izq, der, entrada)
+    medio <- (izq + der) / 2
+    central <- entrada[medio]
+    izquierda <- entrada[izq]
+    derecha <- entrada[der]
+
+    Si (izquierda <= central y central <= derecha) o
+    (derecha <= central y central <= izquierda) Entonces
+        Retornar medio
+    FinSi
+
+    Si (central <= izquierda y izquierda <= derecha) o
+    (derecha <= izquierda y izquierda <= central) Entonces
+        Retornar izq
+    FinSi
+
+    Si (central <= derecha y derecha <= izquierda) o
+    (izquierda <= derecha y derecha <= central) Entonces
+        Retornar der
+    FinSi
+
+    Retornar medio
+FinFuncion

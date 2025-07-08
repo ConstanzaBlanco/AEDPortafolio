@@ -1,0 +1,19 @@
+1)
+1. ¿Cuáles son las operaciones básicas involucradas en estos dos algoritmos?
+#Operaciones básicas:
+
+#Para insertar en el APO (insertar)
+
+Colocar el nuevo elemento en la primera posición libre del último nivel del árbol (o la siguiente posición del vector).
+
+Hacer "flotar" (up-heap o sift-up) el elemento:
+mientras el elemento sea menor que su padre, se intercambia con él.
+
+#Para suprimir el mínimo (suprimeMinimo)
+
+Eliminar el elemento de la raíz (mínimo).
+
+Mover el último elemento del árbol a la raíz.
+
+Hacer "hundir" (down-heap o sift-down) el elemento:
+mientras sea mayor que alguno de sus hijos, intercambiarlo con el hijo más pequeño.

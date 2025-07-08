@@ -4,79 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4caa4c6e-1dc3-4214-97f8-f664450bfe4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AEDPortafolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/salida.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/salida.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/salida2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/salida2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej1/UT1_PD1_Ej1" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej1/UT1_PD1_Ej1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej2/UT1_PD1_Ej2" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej2/UT1_PD1_Ej2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej3/MultSuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej3/MultSuma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej4/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej4/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej5/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej5/Contador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej5/ContadorDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej5/ContadorDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej5/ContadorFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej5/ContadorFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD1/UT1_PD1_Ej5/MainContador.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD1/UT1_PD1_Ej5/MainContador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD10/ContadorPalabrasArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD10/ContadorPalabrasArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD10/MainPalabrasEnComun.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD10/MainPalabrasEnComun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD10/UT1_PD10 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD10/UT1_PD10 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD10/archivo1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD10/archivo1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD4/UT1_PD4 (4).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD4/UT1_PD4 (4).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD4/UT1_PD4_Ej1/UT1_PD4_Ej1" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD4/UT1_PD4_Ej1/UT1_PD4_Ej1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD4/UT1_PD4_Ej2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD4/UT1_PD4_Ej2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD4/UT1_PD4_Ej2/SomethingIsWrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD4/UT1_PD4_Ej2/SomethingIsWrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD4/UT1_PD4_Ej3/UT1_PD4_Ej3" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD4/UT1_PD4_Ej3/UT1_PD4_Ej3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej10/MainEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej10/MainEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej11/ComputerResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej11/ComputerResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej1P1/Colours.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej1P1/Colours.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej1P1/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej1P1/Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej1P1/MainEnumP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej1P1/MainEnumP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej1P2/ContadorPalabras.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej1P2/ContadorPalabras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej1P2/MainEnumP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej1P2/MainEnumP2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej1P2/Vocales.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej1P2/Vocales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/nbactions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/nbactions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/src/main/java/com/mycompany/palindromos/Palindromos.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/src/main/java/com/mycompany/palindromos/Palindromos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/src/main/java/palindromos.form" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/src/main/java/palindromos.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/src/main/java/palindromos.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/src/main/java/palindromos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/com/mycompany/palindromos/Palindromos.class" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/com/mycompany/palindromos/Palindromos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/palindromos$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/palindromos$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/palindromos$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/palindromos$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/palindromos.class" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/classes/palindromos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej3/Palindromos/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej4P1/ValueOfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej4P1/ValueOfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej4P2/ValueOfDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej4P2/ValueOfDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej5/ToStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej5/ToStringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej6/MainMetodosString.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej6/MainMetodosString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej6/archivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej6/archivo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej7/MainStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej7/MainStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej7/archivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej7/archivo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej8/MainStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej8/MainStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD5/UT1_PD5_Ej9/MainExNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD5/UT1_PD5_Ej9/MainExNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej1/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej1/Tablero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej2P1/LectorArchivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej2P1/LectorArchivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej2P1/archivoEjP1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej2P1/archivoEjP1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej2P2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej2P2/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej3P1/PricipalTransformarTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej3P1/PricipalTransformarTexto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej3P1/entrada.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej3P1/entrada.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej3P2/PrincipalEj3Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej3P2/PrincipalEj3Parte2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD6/UT1_PD6_Ej4/MultiplicacionVectores.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD6/UT1_PD6_Ej4/MultiplicacionVectores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD7/UT1_PD7_Ej1/MainInfinito.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD7/UT1_PD7_Ej1/MainInfinito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD7/UT1_PD7_Ej2/MainPD7.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD7/UT1_PD7_Ej2/MainPD7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD8/Marcapasos.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD8/Marcapasos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD8/UT1_PD8 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD8/UT1_PD8 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD9/MainUtilMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD9/MainUtilMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD9/UT1_TA2 - Eje 1 y 2 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD9/UT1_TA2 - Eje 1 y 2 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/UT1_PD9/UtilMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/UT1_PD9/UtilMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nueva carpeta/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosUnidad1/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4caa4c6e-1dc3-4214-97f8-f664450bfe4a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,28 +22,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.MainDef.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainEnumP1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainUtilMath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultSuma.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/conbl/IdeaProjects/AEDPortafolio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.MainDef.executor": "Run",
+    "Application.MainEnumP1.executor": "Run",
+    "Application.MainInfinito.executor": "Run",
+    "Application.MainUtilMath.executor": "Run",
+    "Application.MultSuma.executor": "Run",
+    "JUnit.TestUT2_PD2.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/conbl/IdeaProjects/AEDPortafolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.MainUtilMath">
     <configuration name="MainDef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UT3_PD4.MainDef" />
@@ -210,11 +144,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751398716796</updated>
-      <workItem from="1751398717893" duration="1696000" />
+      <workItem from="1751398717893" duration="2533000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AEDPortafolio$TestUT2_PD2.ic" NAME="TestUT2_PD2 Coverage Results" MODIFIED="1751400527394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>UT2_PD2.*</FILTER>
+    </SUITE>
   </component>
 </project>
